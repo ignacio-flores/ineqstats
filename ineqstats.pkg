@@ -1,13 +1,2 @@
-name: ineqstats
-version: 1.0
-date: 2023-11-23
-title: ""
-description: "This package provides example functions for data analysis."
-author: "Ignacio Flores"
-email: "ignacio.flores@psemail.eu"
-files: 
-    ineqstats.ado
-    ineqstats.sthlp
-    example_data.dta
-requires: 
-    otherPackage 
+ineqstats.ado Main program file for ineqstats
+ineqstats.sthlp Help file for ineqstats

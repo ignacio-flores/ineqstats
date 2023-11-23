@@ -1,6 +1,3 @@
-********************************************** ineqstats.pkg
-v 1
-d ineqstats
-d Program to summarize large amounts of survey data
-d Distribution-Date: Nov 2023
-f ineqstats.ado
+ineqstats Inequality statistics package
+ineqstats.ado
+ineqstats.sthlp

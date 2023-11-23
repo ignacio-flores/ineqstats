@@ -1,3 +1,4 @@
-ineqstats Inequality statistics package
-ineqstats.ado
-ineqstats.sthlp
+v3
+d ineqstats - Ignacio Flores 
+f ineqstats.ado
+f ineqstats.sthlp

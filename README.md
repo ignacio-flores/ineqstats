@@ -1,8 +1,5 @@
 # Stata command: `ineqstats`
 
-## Version
-November 2023
-
 ## Introduction
 `ineqstats` is a Stata program developed for summarizing survey micro-data with weighted observations across various distributional dimensions. It handles large data volumes, including information from different areas (countries or regions), over various time periods. This command is especially useful for comprehensive analysis of income and wealth distribution.
 
@@ -13,7 +10,6 @@ November 2023
 - Fits a Pareto distribution to the top tail of the income distribution.
 - Simulates marginal taxes on total income or wealth.
 - Provides detailed income composition for each group.
-
 
 ### Inputs
 - **summarize**: Required to enable other options.
@@ -37,5 +33,5 @@ November 2023
 ineqstats summarize, areas("USA BRA") time(2000 2017) decomposition("capital" "labor") weight("pop_weight") export("mainfolder/subfolder")
 
 ## Remarks
-Developed in 2022 by Ignacio Flores.
+Developed in 2022 by Ignacio Flores. 
 

@@ -1,4 +1,4 @@
-# ineqstats
+# Stata command: `ineqstats`
 
 ## Version
 November 2023

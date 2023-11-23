@@ -1,7 +1,7 @@
-# ineqstats: Summarizes Survey Micro-Data in Distributional Dimensions
+# ineqstats
 
 ## Version
-v0.0.0.9000 (November 2023)
+November 2023
 
 ## Introduction
 `ineqstats` is a Stata program developed for summarizing survey micro-data with weighted observations across various distributional dimensions. It handles large data volumes, including information from different areas (countries or regions), over various time periods. This command is especially useful for comprehensive analysis of income and wealth distribution.

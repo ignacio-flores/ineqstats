@@ -1,4 +1,0 @@
-v3
-d ineqstats - Ignacio Flores 
-f ineqstats.ado
-f ineqstats.sthlp
